@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/wallpaper\ pusheen.jpg");
+    background-image: url("../images/wp1835254.png");
     font-family: 'Anton', sans-serif;
     color: black;
     letter-spacing: 2px;
@@ -11,7 +11,7 @@ h1 {
 }
 
 #splashscreen {
-    background-image: url('../images/70250.jpg');
+    background-image: url("../images/70250.jpg");
     background-repeat: no-repeat;
     width: 35%;
     margin: 0 auto;
@@ -51,7 +51,7 @@ label {
 
 #answerScreen {
     display: none;
-    background-image: url('../images/nike-bg.png');
+    background-image: url("../images/70250.jpg");
     background-repeat: no-repeat;
     width: 40%;
     margin: 0 auto;
@@ -62,7 +62,7 @@ label {
 
 #timesUp {
     display: none;
-    background-image: url('../images/nike-bg.png');
+    background-image: url("../images/70250.jpg");
     background-repeat: no-repeat;
     width: 35%;
     margin: 0 auto;
@@ -85,7 +85,7 @@ label {
 }
 
 body .container {
-    background-image: url('../images/nike-bg.png');
+    background-image: url("../images/70250.jpg");
     height: 100%;
     text-align: center;
     display: none;
